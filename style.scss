@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+//pixel px - Absoluta
+//não vai mudar, sempre o mesmo tamanho em todas as teclas
+
+//section
+.primeira-Sessao{
+//borda: 3 valores
+//solide, tipo da borda, cor, espessura
+border: solid blueviolet 4px;
+//aninhamento, organizar os estilos das tags de acordo com a sua organização hereditaria
+
+//apenas a div esta dentro da primeira-sessao vai receber esse estilo:
+   div {
+//largura
+ width: 200px;
+ //cor de fundo
+ background-color: rgb(235, 235, 186);
+//altura
+height: 200px;
+}
+
+}
+

@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.primeira-Sessao {
+  border: solid blueviolet 4px;
+}
+.primeira-Sessao div {
+  width: 200px;
+  background-color: rgb(235, 235, 186);
+  height: 200px;
+}/*# sourceMappingURL=style.css.map */
